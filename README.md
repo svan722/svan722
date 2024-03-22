@@ -18,7 +18,7 @@ Like My Work?
 - 🛠 &nbsp; I’m currently working on Blockchain Development.
 - &nbsp; Most of my projects are available on [Github](https://github.com/svan722).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/svan722/svan722/issues/2)! I am happy to help.
-- 📫 &nbsp; How to reach me: anyrobin224@gmail.com.
+- 📫 &nbsp; How to reach me: svan72296@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/svan722/svan722/blob/master/resume.pdf).
 
 ### My Absolute Favorites:
